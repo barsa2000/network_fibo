@@ -5,7 +5,7 @@ function access(r) {
     "eth_getTransactionByHash", "eth_getTransactionCount",
     "eth_getTransactionReceipt", "eth_sendRawTransaction",
     "eth_sendTransaction", "net_version", "rpc_modules", "web3_clientVersion",
-    "eth_getBlockByHash"
+    "eth_getBlockByHash", "eth_getBlockByNumber"
   ];
 
   try {
